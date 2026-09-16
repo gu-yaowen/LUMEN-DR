@@ -1,0 +1,25 @@
+# Requirements — reference environment for all baseline runs (CPU only)
+
+# Python 3.10
+#
+# Install with:
+#   pip install -r requirements.txt
+#
+# Wheel sources:
+#   - torch CPU builds come from the PyTorch CPU wheel index
+#   - DGL 1.1.2 CPU wheels are picked up from the DGL wheel repo for torch 2.2
+#   - torch-scatter CPU wheels come from the PyG wheel index
+
+--extra-index-url https://download.pytorch.org/whl/cpu
+--find-links https://data.dgl.ai/wheels/torch-2.2/repo.html
+--find-links https://data.pyg.org/whl/torch-2.2.0+cpu.html
+
+torch==2.2.0
+dgl==1.1.2
+torch-geometric==2.7.0
+torch-scatter==2.1.2
+scikit-learn==1.7.2
+numpy==1.26.4
+pandas>=2.0
+scipy>=1.10
+networkx>=3.0

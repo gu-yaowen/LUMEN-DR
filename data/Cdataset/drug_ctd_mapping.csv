@@ -1,0 +1,664 @@
+dataset_drug_id,dataset_drug_name,ctd_chemical_id,ctd_chemical_name,matched_alias
+DB00014,Goserelin,MESH:D017273,Goserelin,Goserelin
+DB00035,Desmopressin,MESH:D003894,Deamino Arginine Vasopressin,Desmopressin
+DB00091,Cyclosporine,MESH:D016572,Cyclosporine,Cyclosporine
+DB00104,Octreotide,MESH:D015282,Octreotide,Octreotide
+DB00115,Cyanocobalamin,MESH:D014805,Vitamin B 12,Cyanocobalamin
+DB00122,Choline,MESH:D002794,Choline,Choline
+DB00125,Arginine,MESH:D001120,Arginine,Arginine
+DB00126,Ascorbic acid,MESH:D001205,Ascorbic Acid,Ascorbic acid
+DB00131,Adenosine phosphate,MESH:D000227,Adenine Nucleotides,Adenosine phosphate
+DB00136,Calcitriol,MESH:D002117,Calcitriol,Calcitriol
+DB00140,Riboflavin,MESH:D012256,Riboflavin,Riboflavin
+DB00141,N-Acetylglucosamine,MESH:D000117,Acetylglucosamine,N-Acetylglucosamine
+DB00146,Calcifediol,MESH:D002112,Calcifediol,Calcifediol
+DB00152,Thiamine,MESH:D013831,Thiamine,Thiamine
+DB00153,Ergocalciferol,MESH:D004872,Ergocalciferols,Ergocalciferol
+DB00158,Folic acid,MESH:D005492,Folic Acid,Folic acid
+DB00159,Icosapent,MESH:D015118,Eicosapentaenoic Acid,Icosapent
+DB00160,Alanine,MESH:D000409,Alanine,Alanine
+DB00162,Vitamin A,MESH:D014801,Vitamin A,Vitamin A
+DB00163,Vitamin E,MESH:D014810,Vitamin E,Vitamin E
+DB00165,Pyridoxine,MESH:D011736,Pyridoxine,Pyridoxine
+DB00167,Isoleucine,MESH:D007532,Isoleucine,Isoleucine
+DB00169,Cholecalciferol,MESH:D002762,Cholecalciferol,Cholecalciferol
+DB00175,Pravastatin,MESH:D017035,Pravastatin,Pravastatin
+DB00176,Fluvoxamine,MESH:D016666,Fluvoxamine,Fluvoxamine
+DB00177,Valsartan,MESH:D000068756,Valsartan,Valsartan
+DB00178,Ramipril,MESH:D017257,Ramipril,Ramipril
+DB00179,Masoprocol,MESH:D009637,Masoprocol,Masoprocol
+DB00180,Flunisolide,MESH:C007734,flunisolide,Flunisolide
+DB00181,Baclofen,MESH:D001418,Baclofen,Baclofen
+DB00182,Amphetamine,MESH:D000661,Amphetamine,Amphetamine
+DB00186,Lorazepam,MESH:D008140,Lorazepam,Lorazepam
+DB00187,Esmolol,MESH:C036604,esmolol,Esmolol
+DB00188,Bortezomib,MESH:D000069286,Bortezomib,Bortezomib
+DB00190,Carbidopa,MESH:D002230,Carbidopa,Carbidopa
+DB00191,Phentermine,MESH:D010645,Phentermine,Phentermine
+DB00193,Tramadol,MESH:D014147,Tramadol,Tramadol
+DB00195,Betaxolol,MESH:D015784,Betaxolol,Betaxolol
+DB00199,Erythromycin,MESH:D004917,Erythromycin,Erythromycin
+DB00200,Hydroxocobalamin,MESH:D006879,Hydroxocobalamin,Hydroxocobalamin
+DB00201,Caffeine,MESH:D002110,Caffeine,Caffeine
+DB00203,Sildenafil,MESH:D000068677,Sildenafil Citrate,Sildenafil
+DB00204,Dofetilide,MESH:C063533,dofetilide,Dofetilide
+DB00206,Reserpine,MESH:D012110,Reserpine,Reserpine
+DB00208,Ticlopidine,MESH:D013988,Ticlopidine,Ticlopidine
+DB00210,Adapalene,MESH:D000068816,Adapalene,Adapalene
+DB00211,Midodrine,MESH:D008879,Midodrine,Midodrine
+DB00213,Pantoprazole,MESH:D000077402,Pantoprazole,Pantoprazole
+DB00214,Torasemide,MESH:D000077786,Torsemide,Torasemide
+DB00215,Citalopram,MESH:D015283,Citalopram,Citalopram
+DB00216,Eletriptan,MESH:C115647,eletriptan,Eletriptan
+DB00218,Moxifloxacin,MESH:D000077266,Moxifloxacin,Moxifloxacin
+DB00221,Isoetharine,MESH:D007528,Isoetharine,Isoetharine
+DB00222,Glimepiride,MESH:C057619,glimepiride,Glimepiride
+DB00226,Guanadrel,MESH:C004945,guanadrel,Guanadrel
+DB00227,Lovastatin,MESH:D008148,Lovastatin,Lovastatin
+DB00230,Pregabalin,MESH:D000069583,Pregabalin,Pregabalin
+DB00232,Methyclothiazide,MESH:D008736,Methyclothiazide,Methyclothiazide
+DB00236,Pipobroman,MESH:D010885,Pipobroman,Pipobroman
+DB00240,Alclometasone,,,
+DB00241,Butalbital,MESH:C004470,butalbital,Butalbital
+DB00242,Cladribine,MESH:D017338,Cladribine,Cladribine
+DB00244,Mesalazine,MESH:D019804,Mesalamine,Mesalazine
+DB00245,Benzatropine,MESH:D001590,Benztropine,Benzatropine
+DB00246,Ziprasidone,MESH:C092292,ziprasidone,Ziprasidone
+DB00248,Cabergoline,MESH:D000077465,Cabergoline,Cabergoline
+DB00252,Phenytoin,MESH:D010672,Phenytoin,Phenytoin
+DB00253,Medrysone,MESH:C100283,medrysone,Medrysone
+DB00255,Diethylstilbestrol,MESH:D004054,Diethylstilbestrol,Diethylstilbestrol
+DB00257,Clotrimazole,MESH:D003022,Clotrimazole,Clotrimazole
+DB00262,Carmustine,MESH:D002330,Carmustine,Carmustine
+DB00264,Metoprolol,MESH:D008790,Metoprolol,Metoprolol
+DB00268,Ropinirole,MESH:C046649,ropinirole,Ropinirole
+DB00270,Isradipine,MESH:D017275,Isradipine,Isradipine
+DB00271,Diatrizoate,MESH:D003973,Diatrizoate,Diatrizoate
+DB00273,Topiramate,MESH:D000077236,Topiramate,Topiramate
+DB00275,Olmesartan,MESH:C437965,olmesartan,Olmesartan
+DB00276,Amsacrine,MESH:D000677,Amsacrine,Amsacrine
+DB00277,Theophylline,MESH:D013806,Theophylline,Theophylline
+DB00278,Argatroban,MESH:C031942,argatroban,Argatroban
+DB00279,Liothyronine,MESH:D014284,Triiodothyronine,Liothyronine
+DB00280,Disopyramide,MESH:D004206,Disopyramide,Disopyramide
+DB00281,Lidocaine,MESH:D008012,Lidocaine,Lidocaine
+DB00282,Pamidronic acid,MESH:D000077268,Pamidronate,Pamidronic acid
+DB00283,Clemastine,MESH:D002974,Clemastine,Clemastine
+DB00284,Acarbose,MESH:D020909,Acarbose,Acarbose
+DB00285,Venlafaxine,MESH:D000069470,Venlafaxine Hydrochloride,Venlafaxine
+DB00286,Conjugated estrogens,MESH:D004966,"Estrogens, Conjugated (USP)",Conjugated estrogens
+DB00287,Travoprost,MESH:D000069557,Travoprost,Travoprost
+DB00289,Atomoxetine,MESH:D000069445,Atomoxetine Hydrochloride,Atomoxetine
+DB00290,Bleomycin,MESH:D001761,Bleomycin,Bleomycin
+DB00295,Morphine,MESH:D009020,Morphine,Morphine
+DB00297,Bupivacaine,MESH:D002045,Bupivacaine,Bupivacaine
+DB00302,Tranexamic acid,MESH:D014148,Tranexamic Acid,Tranexamic acid
+DB00304,Desogestrel,MESH:D017135,Desogestrel,Desogestrel
+DB00305,Mitomycin,MESH:D016685,Mitomycin,Mitomycin
+DB00307,Bexarotene,MESH:D000077610,Bexarotene,Bexarotene
+DB00308,Ibutilide,MESH:C067192,ibutilide,Ibutilide
+DB00310,Chlorthalidone,MESH:D002752,Chlorthalidone,Chlorthalidone
+DB00313,Valproic acid,MESH:D014635,Valproic Acid,Valproic acid
+DB00315,Zolmitriptan,MESH:C089750,zolmitriptan,Zolmitriptan
+DB00316,Acetaminophen,MESH:D000082,Acetaminophen,Acetaminophen
+DB00318,Codeine,MESH:D003061,Codeine,Codeine
+DB00320,Dihydroergotamine,MESH:D004087,Dihydroergotamine,Dihydroergotamine
+DB00321,Amitriptyline,MESH:D000639,Amitriptyline,Amitriptyline
+DB00323,Tolcapone,MESH:D000077867,Tolcapone,Tolcapone
+DB00324,Fluorometholone,MESH:D005469,Fluorometholone,Fluorometholone
+DB00325,Nitroprusside,MESH:D009599,Nitroprusside,Nitroprusside
+DB00327,Hydromorphone,MESH:D004091,Hydromorphone,Hydromorphone
+DB00328,Indomethacin,MESH:D007213,Indomethacin,Indomethacin
+DB00331,Metformin,MESH:D008687,Metformin,Metformin
+DB00332,Ipratropium,MESH:D009241,Ipratropium,Ipratropium
+DB00333,Methadone,MESH:D008691,Methadone,Methadone
+DB00334,Olanzapine,MESH:D000077152,Olanzapine,Olanzapine
+DB00335,Atenolol,MESH:D001262,Atenolol,Atenolol
+DB00337,Pimecrolimus,MESH:C117268,pimecrolimus,Pimecrolimus
+DB00338,Omeprazole,MESH:D009853,Omeprazole,Omeprazole
+DB00341,Cetirizine,MESH:D017332,Cetirizine,Cetirizine
+DB00342,Terfenadine,MESH:D016593,Terfenadine,Terfenadine
+DB00343,Diltiazem,MESH:D004110,Diltiazem,Diltiazem
+DB00346,Alfuzosin,MESH:C047638,alfuzosin,Alfuzosin
+DB00349,Clobazam,MESH:D000078306,Clobazam,Clobazam
+DB00350,Minoxidil,MESH:D008914,Minoxidil,Minoxidil
+DB00351,Megestrol acetate,MESH:D019290,Megestrol Acetate,Megestrol acetate
+DB00352,Tioguanine,MESH:D013866,Thioguanine,Tioguanine
+DB00353,Methylergometrine,MESH:D008755,Methylergonovine,Methylergometrine
+DB00354,Buclizine,MESH:C046894,buclizine,Buclizine
+DB00356,Chlorzoxazone,MESH:D002753,Chlorzoxazone,Chlorzoxazone
+DB00357,Aminoglutethimide,MESH:D000616,Aminoglutethimide,Aminoglutethimide
+DB00361,Vinorelbine,MESH:D000077235,Vinorelbine,Vinorelbine
+DB00363,Clozapine,MESH:D003024,Clozapine,Clozapine
+DB00364,Sucralfate,MESH:D013392,Sucralfate,Sucralfate
+DB00366,Doxylamine,MESH:D004319,Doxylamine,Doxylamine
+DB00367,Levonorgestrel,MESH:D016912,Levonorgestrel,Levonorgestrel
+DB00368,Norepinephrine,MESH:D009638,Norepinephrine,Norepinephrine
+DB00371,Meprobamate,MESH:D008620,Meprobamate,Meprobamate
+DB00373,Timolol,MESH:D013999,Timolol,Timolol
+DB00374,Treprostinil,MESH:C427248,treprostinil,Treprostinil
+DB00376,Trihexyphenidyl,MESH:D014282,Trihexyphenidyl,Trihexyphenidyl
+DB00379,Mexiletine,MESH:D008801,Mexiletine,Mexiletine
+DB00380,Dexrazoxane,MESH:D064730,Dexrazoxane,Dexrazoxane
+DB00381,Amlodipine,MESH:D017311,Amlodipine,Amlodipine
+DB00382,Tacrine,MESH:D013619,Tacrine,Tacrine
+DB00384,Triamterene,MESH:D014223,Triamterene,Triamterene
+DB00385,Valrubicin,MESH:C016163,valrubicin,Valrubicin
+DB00387,Procyclidine,MESH:D011352,Procyclidine,Procyclidine
+DB00388,Phenylephrine,MESH:D010656,Phenylephrine,Phenylephrine
+DB00390,Digoxin,MESH:D004077,Digoxin,Digoxin
+DB00392,Profenamine,MESH:C084820,profenamine,Profenamine
+DB00393,Nimodipine,MESH:D009553,Nimodipine,Nimodipine
+DB00394,Beclomethasone dipropionate,MESH:D001507,Beclomethasone,Beclomethasone dipropionate
+DB00396,Progesterone,MESH:D011374,Progesterone,Progesterone
+DB00397,Phenylpropanolamine,MESH:D010665,Phenylpropanolamine,Phenylpropanolamine
+DB00398,Sorafenib,MESH:D000077157,Sorafenib,Sorafenib
+DB00399,Zoledronic acid,MESH:D000077211,Zoledronic Acid,Zoledronic acid
+DB00401,Nisoldipine,MESH:D015737,Nisoldipine,Nisoldipine
+DB00404,Alprazolam,MESH:D000525,Alprazolam,Alprazolam
+DB00405,Dexbrompheniramine,MESH:C015121,dexbrompheniramine,Dexbrompheniramine
+DB00407,Ardeparin,MESH:C093450,ardeparin,Ardeparin
+DB00408,Loxapine,MESH:D008152,Loxapine,Loxapine
+DB00412,Rosiglitazone,MESH:D000077154,Rosiglitazone,Rosiglitazone
+DB00413,Pramipexole,MESH:D000077487,Pramipexole,Pramipexole
+DB00414,Acetohexamide,MESH:D000092,Acetohexamide,Acetohexamide
+DB00419,Miglustat,MESH:C059896,miglustat,Miglustat
+DB00421,Spironolactone,MESH:D013148,Spironolactone,Spironolactone
+DB00422,Methylphenidate,MESH:D008774,Methylphenidate,Methylphenidate
+DB00424,Hyoscyamine,MESH:D064692,Hyoscyamine,Hyoscyamine
+DB00427,Triprolidine,MESH:D014311,Triprolidine,Triprolidine
+DB00428,Streptozocin,MESH:D013311,Streptozocin,Streptozocin
+DB00433,Prochlorperazine,MESH:D011346,Prochlorperazine,Prochlorperazine
+DB00434,Cyproheptadine,MESH:D003533,Cyproheptadine,Cyproheptadine
+DB00436,Bendroflumethiazide,MESH:D001539,Bendroflumethiazide,Bendroflumethiazide
+DB00437,Allopurinol,MESH:D000493,Allopurinol,Allopurinol
+DB00440,Trimethoprim,MESH:D014295,Trimethoprim,Trimethoprim
+DB00441,Gemcitabine,MESH:D000093542,Gemcitabine,Gemcitabine
+DB00443,Betamethasone,MESH:D001623,Betamethasone,Betamethasone
+DB00444,Teniposide,MESH:D013713,Teniposide,Teniposide
+DB00445,Epirubicin,MESH:D015251,Epirubicin,Epirubicin
+DB00448,Lansoprazole,MESH:D064747,Lansoprazole,Lansoprazole
+DB00449,Dipivefrin,MESH:C015173,dipivefrin,Dipivefrin
+DB00451,Levothyroxine,MESH:D013974,Thyroxine,Levothyroxine
+DB00454,Meperidine,MESH:D008614,Meperidine,Meperidine
+DB00455,Loratadine,MESH:D017336,Loratadine,Loratadine
+DB00457,Prazosin,MESH:D011224,Prazosin,Prazosin
+DB00458,Imipramine,MESH:D007099,Imipramine,Imipramine
+DB00460,Verteporfin,MESH:D000077362,Verteporfin,Verteporfin
+DB00461,Nabumetone,MESH:D000077430,Nabumetone,Nabumetone
+DB00464,Sodium tetradecyl sulfate,MESH:D012981,Sodium Tetradecyl Sulfate,Sodium tetradecyl sulfate
+DB00465,Ketorolac,MESH:D020910,Ketorolac,Ketorolac
+DB00468,Quinine,MESH:D011803,Quinine,Quinine
+DB00469,Tenoxicam,MESH:C032801,tenoxicam,Tenoxicam
+DB00470,Dronabinol,MESH:D013759,Dronabinol,Dronabinol
+DB00471,Montelukast,MESH:C093875,montelukast,Montelukast
+DB00472,Fluoxetine,MESH:D005473,Fluoxetine,Fluoxetine
+DB00475,Chlordiazepoxide,MESH:D002707,Chlordiazepoxide,Chlordiazepoxide
+DB00476,Duloxetine,MESH:D000068736,Duloxetine Hydrochloride,Duloxetine
+DB00477,Chlorpromazine,MESH:D002746,Chlorpromazine,Chlorpromazine
+DB00480,Lenalidomide,MESH:D000077269,Lenalidomide,Lenalidomide
+DB00481,Raloxifene,MESH:D020849,Raloxifene Hydrochloride,Raloxifene
+DB00482,Celecoxib,MESH:D000068579,Celecoxib,Celecoxib
+DB00484,Brimonidine,MESH:D000068438,Brimonidine Tartrate,Brimonidine
+DB00489,Sotalol,MESH:D013015,Sotalol,Sotalol
+DB00490,Buspirone,MESH:D002065,Buspirone,Buspirone
+DB00491,Miglitol,MESH:C045621,miglitol,Miglitol
+DB00492,Fosinopril,MESH:D017328,Fosinopril,Fosinopril
+DB00494,Entacapone,MESH:C071192,entacapone,Entacapone
+DB00497,Oxycodone,MESH:D010098,Oxycodone,Oxycodone
+DB00499,Flutamide,MESH:D005485,Flutamide,Flutamide
+DB00500,Tolmetin,MESH:D014046,Tolmetin,Tolmetin
+DB00501,Cimetidine,MESH:D002927,Cimetidine,Cimetidine
+DB00502,Haloperidol,MESH:D006220,Haloperidol,Haloperidol
+DB00508,Triflupromazine,MESH:D014273,Triflupromazine,Triflupromazine
+DB00514,Dextromethorphan,MESH:D003915,Dextromethorphan,Dextromethorphan
+DB00515,Cisplatin,MESH:D002945,Cisplatin,Cisplatin
+DB00519,Trandolapril,MESH:C052035,trandolapril,Trandolapril
+DB00521,Carteolol,MESH:D002354,Carteolol,Carteolol
+DB00523,Alitretinoin,MESH:D000077556,Alitretinoin,Alitretinoin
+DB00524,Metolazone,MESH:D008788,Metolazone,Metolazone
+DB00527,Cinchocaine,MESH:D003992,Dibucaine,Cinchocaine
+DB00528,Lercanidipine,MESH:C060343,lercanidipine,Lercanidipine
+DB00530,Erlotinib,MESH:D000069347,Erlotinib Hydrochloride,Erlotinib
+DB00531,Cyclophosphamide,MESH:D003520,Cyclophosphamide,Cyclophosphamide
+DB00532,Mephenytoin,MESH:D008617,Mephenytoin,Mephenytoin
+DB00535,Cefdinir,MESH:D000077525,Cefdinir,Cefdinir
+DB00536,Guanidine,MESH:D019791,Guanidine,Guanidine
+DB00537,Ciprofloxacin,MESH:D002939,Ciprofloxacin,Ciprofloxacin
+DB00540,Nortriptyline,MESH:D009661,Nortriptyline,Nortriptyline
+DB00541,Vincristine,MESH:D014750,Vincristine,Vincristine
+DB00542,Benazepril,MESH:C044946,benazepril,Benazepril
+DB00544,Fluorouracil,MESH:D005472,Fluorouracil,Fluorouracil
+DB00545,Pyridostigmine,MESH:D011729,Pyridostigmine Bromide,Pyridostigmine
+DB00547,Desoximetasone,MESH:D003899,Desoximetasone,Desoximetasone
+DB00548,Azelaic acid,MESH:C010038,azelaic acid,Azelaic acid
+DB00549,Zafirlukast,MESH:C062735,zafirlukast,Zafirlukast
+DB00550,Propylthiouracil,MESH:D011441,Propylthiouracil,Propylthiouracil
+DB00552,Pentostatin,MESH:D015649,Pentostatin,Pentostatin
+DB00553,Methoxsalen,MESH:D008730,Methoxsalen,Methoxsalen
+DB00554,Piroxicam,MESH:D010894,Piroxicam,Piroxicam
+DB00555,Lamotrigine,MESH:D000077213,Lamotrigine,Lamotrigine
+DB00557,Hydroxyzine,MESH:D006919,Hydroxyzine,Hydroxyzine
+DB00559,Bosentan,MESH:D000077300,Bosentan,Bosentan
+DB00563,Methotrexate,MESH:D008727,Methotrexate,Methotrexate
+DB00564,Carbamazepine,MESH:D002220,Carbamazepine,Carbamazepine
+DB00569,Fondaparinux,MESH:D000077425,Fondaparinux,Fondaparinux
+DB00570,Vinblastine,MESH:D014747,Vinblastine,Vinblastine
+DB00571,Propranolol,MESH:D011433,Propranolol,Propranolol
+DB00572,Atropine,MESH:D001285,Atropine,Atropine
+DB00573,Fenoprofen,MESH:D005279,Fenoprofen,Fenoprofen
+DB00575,Clonidine,MESH:D003000,Clonidine,Clonidine
+DB00583,Levocarnitine,MESH:D002331,Carnitine,Levocarnitine
+DB00584,Enalapril,MESH:D004656,Enalapril,Enalapril
+DB00585,Nizatidine,MESH:D016567,Nizatidine,Nizatidine
+DB00586,Diclofenac,MESH:D004008,Diclofenac,Diclofenac
+DB00588,Fluticasone propionate,MESH:D000068298,Fluticasone,Fluticasone propionate
+DB00589,Lisuride,MESH:D008090,Lisuride,Lisuride
+DB00590,Doxazosin,MESH:D017292,Doxazosin,Doxazosin
+DB00591,Fluocinolone acetonide,MESH:D005446,Fluocinolone Acetonide,Fluocinolone acetonide
+DB00593,Ethosuximide,MESH:D005013,Ethosuximide,Ethosuximide
+DB00594,Amiloride,MESH:D000584,Amiloride,Amiloride
+DB00596,Ulobetasol,MESH:C064466,halobetasol,Ulobetasol
+DB00598,Labetalol,MESH:D007741,Labetalol,Labetalol
+DB00603,Medroxyprogesterone acetate,MESH:D017258,Medroxyprogesterone Acetate,Medroxyprogesterone acetate
+DB00604,Cisapride,MESH:D020117,Cisapride,Cisapride
+DB00605,Sulindac,MESH:D013467,Sulindac,Sulindac
+DB00608,Chloroquine,MESH:D002738,Chloroquine,Chloroquine
+DB00611,Butorphanol,MESH:D002077,Butorphanol,Butorphanol
+DB00612,Bisoprolol,MESH:D017298,Bisoprolol,Bisoprolol
+DB00619,Imatinib,MESH:D000068877,Imatinib Mesylate,Imatinib
+DB00620,Triamcinolone,MESH:D014221,Triamcinolone,Triamcinolone
+DB00622,Nicardipine,MESH:D009529,Nicardipine,Nicardipine
+DB00623,Fluphenazine,MESH:D005476,Fluphenazine,Fluphenazine
+DB00624,Testosterone,MESH:D013739,Testosterone,Testosterone
+DB00627,Niacin,MESH:D009525,Niacin,Niacin
+DB00630,Alendronic acid,,,
+DB00631,Clofarabine,MESH:D000077866,Clofarabine,Clofarabine
+DB00635,Prednisone,MESH:D011241,Prednisone,Prednisone
+DB00636,Clofibrate,MESH:D002994,Clofibrate,Clofibrate
+DB00637,Astemizole,MESH:D016589,Astemizole,Astemizole
+DB00638,Inulin,MESH:D007444,Inulin,Inulin
+DB00640,Adenosine,MESH:D000241,Adenosine,Adenosine
+DB00641,Simvastatin,MESH:D019821,Simvastatin,Simvastatin
+DB00642,Pemetrexed,MESH:D000068437,Pemetrexed,Pemetrexed
+DB00644,Gonadorelin,MESH:D007987,Gonadotropin-Releasing Hormone,Gonadorelin
+DB00647,Dextropropoxyphene,MESH:D011431,Dextropropoxyphene,Dextropropoxyphene
+DB00650,Leucovorin,MESH:D002955,Leucovorin,Leucovorin
+DB00651,Dyphylline,MESH:D004400,Dyphylline,Dyphylline
+DB00652,Pentazocine,MESH:D010423,Pentazocine,Pentazocine
+DB00653,Magnesium sulfate,MESH:D008278,Magnesium Sulfate,Magnesium sulfate
+DB00654,Latanoprost,MESH:D000077338,Latanoprost,Latanoprost
+DB00655,Estrone,MESH:D004970,Estrone,Estrone
+DB00657,Mecamylamine,MESH:D008464,Mecamylamine,Mecamylamine
+DB00659,Acamprosate,MESH:D000077443,Acamprosate,Acamprosate
+DB00661,Verapamil,MESH:D014700,Verapamil,Verapamil
+DB00663,Flumethasone,MESH:D005443,Flumethasone,Flumethasone
+DB00668,Epinephrine,MESH:D004837,Epinephrine,Epinephrine
+DB00669,Sumatriptan,MESH:D018170,Sumatriptan,Sumatriptan
+DB00672,Chlorpropamide,MESH:D002747,Chlorpropamide,Chlorpropamide
+DB00674,Galantamine,MESH:D005702,Galantamine,Galantamine
+DB00675,Tamoxifen,MESH:D013629,Tamoxifen,Tamoxifen
+DB00678,Losartan,MESH:D019808,Losartan,Losartan
+DB00679,Thioridazine,MESH:D013881,Thioridazine,Thioridazine
+DB00682,Warfarin,MESH:D014859,Warfarin,Warfarin
+DB00686,Pentosan polysulfate,MESH:D010426,Pentosan Sulfuric Polyester,Pentosan polysulfate
+DB00687,Fludrocortisone,MESH:D005438,Fludrocortisone,Fludrocortisone
+DB00691,Moexipril,MESH:C058302,moexipril,Moexipril
+DB00692,Phentolamine,MESH:D010646,Phentolamine,Phentolamine
+DB00694,Daunorubicin,MESH:D003630,Daunorubicin,Daunorubicin
+DB00695,Furosemide,MESH:D005665,Furosemide,Furosemide
+DB00696,Ergotamine,MESH:D004878,Ergotamine,Ergotamine
+DB00697,Tizanidine,MESH:C023754,tizanidine,Tizanidine
+DB00699,Nicergoline,MESH:D009530,Nicergoline,Nicergoline
+DB00704,Naltrexone,MESH:D009271,Naltrexone,Naltrexone
+DB00706,Tamsulosin,MESH:D000077409,Tamsulosin,Tamsulosin
+DB00710,Ibandronate,MESH:D000077557,Ibandronic Acid,Ibandronate
+DB00712,Flurbiprofen,MESH:D005480,Flurbiprofen,Flurbiprofen
+DB00714,Apomorphine,MESH:D001058,Apomorphine,Apomorphine
+DB00715,Paroxetine,MESH:D017374,Paroxetine,Paroxetine
+DB00716,Nedocromil,MESH:D017835,Nedocromil,Nedocromil
+DB00717,Norethisterone,MESH:D009640,Norethindrone,Norethisterone
+DB00719,Azatadine,MESH:C006656,azatadine,Azatadine
+DB00721,Procaine,MESH:D011343,Procaine,Procaine
+DB00722,Lisinopril,MESH:D017706,Lisinopril,Lisinopril
+DB00724,Imiquimod,MESH:D000077271,Imiquimod,Imiquimod
+DB00727,Nitroglycerin,MESH:D005996,Nitroglycerin,Nitroglycerin
+DB00731,Nateglinide,MESH:D000077715,Nateglinide,Nateglinide
+DB00733,Pralidoxime,MESH:C028797,pralidoxime,Pralidoxime
+DB00734,Risperidone,MESH:D018967,Risperidone,Risperidone
+DB00736,Esomeprazole,MESH:D064098,Esomeprazole,Esomeprazole
+DB00741,Hydrocortisone,MESH:D006854,Hydrocortisone,Hydrocortisone
+DB00744,Zileuton,MESH:C063449,zileuton,Zileuton
+DB00745,Modafinil,MESH:D000077408,Modafinil,Modafinil
+DB00747,Scopolamine,MESH:D012601,Scopolamine,Scopolamine
+DB00748,Carbinoxamine,MESH:C004649,carbinoxamine,Carbinoxamine
+DB00749,Etodolac,MESH:D017308,Etodolac,Etodolac
+DB00750,Prilocaine,MESH:D011318,Prilocaine,Prilocaine
+DB00751,Epinastine,MESH:C053090,epinastine,Epinastine
+DB00754,Ethotoin,MESH:C084606,ethotoin,Ethotoin
+DB00755,Tretinoin,MESH:D014212,Tretinoin,Tretinoin
+DB00757,Dolasetron,MESH:C060344,dolasetron,Dolasetron
+DB00758,Clopidogrel,MESH:D000077144,Clopidogrel,Clopidogrel
+DB00759,Tetracycline,MESH:D013752,Tetracycline,Tetracycline
+DB00762,Irinotecan,MESH:D000077146,Irinotecan,Irinotecan
+DB00763,Methimazole,MESH:D008713,Methimazole,Methimazole
+DB00764,Mometasone,MESH:D000068656,Mometasone Furoate,Mometasone
+DB00765,Metyrosine,MESH:D019805,alpha-Methyltyrosine,Metyrosine
+DB00767,Benzquinamide,MESH:C100234,benzquinamide,Benzquinamide
+DB00768,Olopatadine,MESH:D000069605,Olopatadine Hydrochloride,Olopatadine
+DB00770,Alprostadil,MESH:D000527,Alprostadil,Alprostadil
+DB00771,Clidinium,MESH:C054940,clidinium,Clidinium
+DB00773,Etoposide,MESH:D005047,Etoposide,Etoposide
+DB00775,Tirofiban,MESH:D000077466,Tirofiban,Tirofiban
+DB00776,Oxcarbazepine,MESH:D000078330,Oxcarbazepine,Oxcarbazepine
+DB00780,Phenelzine,MESH:D010624,Phenelzine,Phenelzine
+DB00783,Estradiol,MESH:D004958,Estradiol,Estradiol
+DB00784,Mefenamic acid,MESH:D008528,Mefenamic Acid,Mefenamic acid
+DB00787,Acyclovir,MESH:D000212,Acyclovir,Acyclovir
+DB00788,Naproxen,MESH:D009288,Naproxen,Naproxen
+DB00790,Perindopril,MESH:D020913,Perindopril,Perindopril
+DB00794,Primidone,MESH:D011324,Primidone,Primidone
+DB00795,Sulfasalazine,MESH:D012460,Sulfasalazine,Sulfasalazine
+DB00796,Candesartan cilexetil,MESH:C077793,candesartan cilexetil,Candesartan cilexetil
+DB00800,Fenoldopam,MESH:D018818,Fenoldopam,Fenoldopam
+DB00804,Dicyclomine,MESH:D004025,Dicyclomine,Dicyclomine
+DB00806,Pentoxifylline,MESH:D010431,Pentoxifylline,Pentoxifylline
+DB00808,Indapamide,MESH:D007190,Indapamide,Indapamide
+DB00810,Biperiden,MESH:D001712,Biperiden,Biperiden
+DB00813,Fentanyl,MESH:D005283,Fentanyl,Fentanyl
+DB00814,Meloxicam,MESH:D000077239,Meloxicam,Meloxicam
+DB00816,Orciprenaline,MESH:D009921,Metaproterenol,Orciprenaline
+DB00819,Acetazolamide,MESH:D000086,Acetazolamide,Acetazolamide
+DB00820,Tadalafil,MESH:D000068581,Tadalafil,Tadalafil
+DB00822,Disulfiram,MESH:D004221,Disulfiram,Disulfiram
+DB00829,Diazepam,MESH:D003975,Diazepam,Diazepam
+DB00831,Trifluoperazine,MESH:D014268,Trifluoperazine,Trifluoperazine
+DB00834,Mifepristone,MESH:D015735,Mifepristone,Mifepristone
+DB00835,Brompheniramine,MESH:D001977,Brompheniramine,Brompheniramine
+DB00839,Tolazamide,MESH:D014042,Tolazamide,Tolazamide
+DB00843,Donepezil,MESH:D000077265,Donepezil,Donepezil
+DB00844,Nalbuphine,MESH:D009266,Nalbuphine,Nalbuphine
+DB00846,Flurandrenolide,MESH:D005478,Flurandrenolone,Flurandrenolide
+DB00847,Cysteamine,MESH:D003543,Cysteamine,Cysteamine
+DB00848,Levamisole,MESH:D007978,Levamisole,Levamisole
+DB00851,Dacarbazine,MESH:D003606,Dacarbazine,Dacarbazine
+DB00852,Pseudoephedrine,MESH:D054199,Pseudoephedrine,Pseudoephedrine
+DB00853,Temozolomide,MESH:D000077204,Temozolomide,Temozolomide
+DB00856,Chlorphenesin,MESH:D002743,Chlorphenesin,Chlorphenesin
+DB00859,Penicillamine,MESH:D010396,Penicillamine,Penicillamine
+DB00860,Prednisolone,MESH:D011239,Prednisolone,Prednisolone
+DB00861,Diflunisal,MESH:D004061,Diflunisal,Diflunisal
+DB00863,Ranitidine,MESH:D011899,Ranitidine,Ranitidine
+DB00864,Tacrolimus,MESH:D016559,Tacrolimus,Tacrolimus
+DB00865,Benzphetamine,MESH:D001589,Benzphetamine,Benzphetamine
+DB00868,Benzonatate,MESH:C029755,benzonatate,Benzonatate
+DB00869,Dorzolamide,MESH:C062765,dorzolamide,Dorzolamide
+DB00871,Terbutaline,MESH:D013726,Terbutaline,Terbutaline
+DB00873,Loteprednol,MESH:D000069559,Loteprednol Etabonate,Loteprednol
+DB00876,Eprosartan,MESH:C068373,eprosartan,Eprosartan
+DB00880,Chlorothiazide,MESH:D002740,Chlorothiazide,Chlorothiazide
+DB00881,Quinapril,MESH:D000077583,Quinapril,Quinapril
+DB00882,Clomifene,MESH:D002996,Clomiphene,Clomifene
+DB00883,Isosorbide dinitrate,MESH:D007548,Isosorbide Dinitrate,Isosorbide dinitrate
+DB00884,Risedronic acid,MESH:D000068296,Risedronic Acid,Risedronic acid
+DB00887,Bumetanide,MESH:D002034,Bumetanide,Bumetanide
+DB00888,Mechlorethamine,MESH:D008466,Mechlorethamine,Mechlorethamine
+DB00889,Granisetron,MESH:D017829,Granisetron,Granisetron
+DB00898,Ethanol,MESH:D000431,Ethanol,Ethanol
+DB00899,Remifentanil,MESH:D000077208,Remifentanil,Remifentanil
+DB00903,Etacrynic acid,MESH:D004976,Ethacrynic Acid,Etacrynic acid
+DB00904,Ondansetron,MESH:D017294,Ondansetron,Ondansetron
+DB00905,Bimatoprost,MESH:D000069580,Bimatoprost,Bimatoprost
+DB00906,Tiagabine,MESH:D000078308,Tiagabine,Tiagabine
+DB00907,Cocaine,MESH:D003042,Cocaine,Cocaine
+DB00908,Quinidine,MESH:D011802,Quinidine,Quinidine
+DB00909,Zonisamide,MESH:D000078305,Zonisamide,Zonisamide
+DB00912,Repaglinide,MESH:C072379,repaglinide,Repaglinide
+DB00915,Amantadine,MESH:D000547,Amantadine,Amantadine
+DB00917,Dinoprostone,MESH:D015232,Dinoprostone,Dinoprostone
+DB00918,Almotriptan,MESH:C409045,almotriptan,Almotriptan
+DB00920,Ketotifen,MESH:D007665,Ketotifen,Ketotifen
+DB00921,Buprenorphine,MESH:D002047,Buprenorphine,Buprenorphine
+DB00924,Cyclobenzaprine,MESH:C004704,cyclobenzaprine,Cyclobenzaprine
+DB00925,Phenoxybenzamine,MESH:D010643,Phenoxybenzamine,Phenoxybenzamine
+DB00927,Famotidine,MESH:D015738,Famotidine,Famotidine
+DB00928,Azacitidine,MESH:D001374,Azacitidine,Azacitidine
+DB00929,Misoprostol,MESH:D016595,Misoprostol,Misoprostol
+DB00933,Mesoridazine,MESH:D008653,Mesoridazine,Mesoridazine
+DB00936,Salicylic acid,MESH:D020156,Salicylic Acid,Salicylic acid
+DB00937,Diethylpropion,MESH:D004053,Diethylpropion,Diethylpropion
+DB00938,Salmeterol,MESH:D000068299,Salmeterol Xinafoate,Salmeterol
+DB00939,Meclofenamic acid,MESH:D008469,Meclofenamic Acid,Meclofenamic acid
+DB00945,Acetylsalicylic acid,MESH:D001241,Aspirin,Acetylsalicylic acid
+DB00947,Fulvestrant,MESH:D000077267,Fulvestrant,Fulvestrant
+DB00949,Felbamate,MESH:D000078328,Felbamate,Felbamate
+DB00950,Fexofenadine,MESH:C093230,fexofenadine,Fexofenadine
+DB00952,Naratriptan,MESH:C106783,naratriptan,Naratriptan
+DB00953,Rizatriptan,MESH:C093622,rizatriptan,Rizatriptan
+DB00956,Hydrocodone,MESH:D006853,Hydrocodone,Hydrocodone
+DB00957,Norgestimate,MESH:C017576,norgestimate,Norgestimate
+DB00958,Carboplatin,MESH:D016190,Carboplatin,Carboplatin
+DB00959,Methylprednisolone,MESH:D008775,Methylprednisolone,Methylprednisolone
+DB00960,Pindolol,MESH:D010869,Pindolol,Pindolol
+DB00963,Bromfenac,MESH:C053083,bromfenac,Bromfenac
+DB00966,Telmisartan,MESH:D000077333,Telmisartan,Telmisartan
+DB00967,Desloratadine,MESH:C121345,desloratadine,Desloratadine
+DB00968,Methyldopa,MESH:D008750,Methyldopa,Methyldopa
+DB00969,Alosetron,MESH:C090840,alosetron,Alosetron
+DB00972,Azelastine,MESH:C020976,azelastine,Azelastine
+DB00973,Ezetimibe,MESH:D000069438,Ezetimibe,Ezetimibe
+DB00975,Dipyridamole,MESH:D004176,Dipyridamole,Dipyridamole
+DB00977,Ethinylestradiol,MESH:D004997,Ethinyl Estradiol,Ethinylestradiol
+DB00982,Isotretinoin,MESH:D015474,Isotretinoin,Isotretinoin
+DB00983,Formoterol,MESH:D000068759,Formoterol Fumarate,Formoterol
+DB00984,Nandrolone phenpropionate,MESH:C008580,nandrolone phenpropionate,Nandrolone phenpropionate
+DB00987,Cytarabine,MESH:D003561,Cytarabine,Cytarabine
+DB00988,Dopamine,MESH:D004298,Dopamine,Dopamine
+DB00989,Rivastigmine,MESH:D000068836,Rivastigmine,Rivastigmine
+DB00990,Exemestane,MESH:C056516,exemestane,Exemestane
+DB00991,Oxaprozin,MESH:D000077431,Oxaprozin,Oxaprozin
+DB00992,Methyl aminolevulinate,,,
+DB00993,Azathioprine,MESH:D001379,Azathioprine,Azathioprine
+DB00995,Auranofin,MESH:D001310,Auranofin,Auranofin
+DB00996,Gabapentin,MESH:D000077206,Gabapentin,Gabapentin
+DB00997,Doxorubicin,MESH:D004317,Doxorubicin,Doxorubicin
+DB00998,Frovatriptan,MESH:C108128,frovatriptan,Frovatriptan
+DB00999,Hydrochlorothiazide,MESH:D006852,Hydrochlorothiazide,Hydrochlorothiazide
+DB01001,Salbutamol,MESH:D000420,Albuterol,Salbutamol
+DB01002,Levobupivacaine,MESH:D000077554,Levobupivacaine,Levobupivacaine
+DB01003,Cromoglicic acid,MESH:D004205,Cromolyn Sodium,Cromoglicic acid
+DB01005,Hydroxyurea,MESH:D006918,Hydroxyurea,Hydroxyurea
+DB01006,Letrozole,MESH:D000077289,Letrozole,Letrozole
+DB01008,Busulfan,MESH:D002066,Busulfan,Busulfan
+DB01009,Ketoprofen,MESH:D007660,Ketoprofen,Ketoprofen
+DB01012,Cinacalcet,MESH:D000069449,Cinacalcet,Cinacalcet
+DB01013,Clobetasol propionate,MESH:D002990,Clobetasol,Clobetasol propionate
+DB01014,Balsalazide,MESH:C038637,balsalazide,Balsalazide
+DB01016,Glyburide,MESH:D005905,Glyburide,Glyburide
+DB01017,Minocycline,MESH:D008911,Minocycline,Minocycline
+DB01018,Guanfacine,MESH:D016316,Guanfacine,Guanfacine
+DB01019,Bethanechol,MESH:D018723,Bethanechol,Bethanechol
+DB01020,Isosorbide mononitrate,MESH:C030397,isosorbide-5-mononitrate,Isosorbide mononitrate
+DB01023,Felodipine,MESH:D015736,Felodipine,Felodipine
+DB01026,Ketoconazole,MESH:D007654,Ketoconazole,Ketoconazole
+DB01029,Irbesartan,MESH:D000077405,Irbesartan,Irbesartan
+DB01030,Topotecan,MESH:D019772,Topotecan,Topotecan
+DB01033,Mercaptopurine,MESH:D015122,Mercaptopurine,Mercaptopurine
+DB01035,Procainamide,MESH:D011342,Procainamide,Procainamide
+DB01037,Selegiline,MESH:D012642,Selegiline,Selegiline
+DB01039,Fenofibrate,MESH:D011345,Fenofibrate,Fenofibrate
+DB01041,Thalidomide,MESH:D013792,Thalidomide,Thalidomide
+DB01042,Melphalan,MESH:D008558,Melphalan,Melphalan
+DB01043,Memantine,MESH:D008559,Memantine,Memantine
+DB01045,Rifampicin,MESH:D012293,Rifampin,Rifampicin
+DB01046,Lubiprostone,MESH:D000068238,Lubiprostone,Lubiprostone
+DB01050,Ibuprofen,MESH:D007052,Ibuprofen,Ibuprofen
+DB01058,Praziquantel,MESH:D011223,Praziquantel,Praziquantel
+DB01062,Oxybutynin,MESH:C005419,oxybutynin,Oxybutynin
+DB01063,Acetophenazine,MESH:C100162,acetophenazine,Acetophenazine
+DB01064,Isoprenaline,MESH:D007545,Isoproterenol,Isoprenaline
+DB01065,Melatonin,MESH:D008550,Melatonin,Melatonin
+DB01067,Glipizide,MESH:D005913,Glipizide,Glipizide
+DB01068,Clonazepam,MESH:D002998,Clonazepam,Clonazepam
+DB01069,Promethazine,MESH:D011398,Promethazine,Promethazine
+DB01070,Dihydrotachysterol,MESH:D004097,Dihydrotachysterol,Dihydrotachysterol
+DB01071,Mequitazine,MESH:C006069,mequitazine,Mequitazine
+DB01072,Atazanavir,MESH:D000069446,Atazanavir Sulfate,Atazanavir
+DB01073,Fludarabine,MESH:C024352,fludarabine,Fludarabine
+DB01075,Diphenhydramine,MESH:D004155,Diphenhydramine,Diphenhydramine
+DB01076,Atorvastatin,MESH:D000069059,Atorvastatin,Atorvastatin
+DB01077,Etidronic acid,MESH:D012968,Etidronic Acid,Etidronic acid
+DB01080,Vigabatrin,MESH:D020888,Vigabatrin,Vigabatrin
+DB01083,Orlistat,MESH:D000077403,Orlistat,Orlistat
+DB01084,Emedastine,MESH:C043345,emedastine,Emedastine
+DB01085,Pilocarpine,MESH:D010862,Pilocarpine,Pilocarpine
+DB01086,Benzocaine,MESH:D001566,Benzocaine,Benzocaine
+DB01088,Iloprost,MESH:D016285,Iloprost,Iloprost
+DB01095,Fluvastatin,MESH:D000077340,Fluvastatin,Fluvastatin
+DB01098,Rosuvastatin,MESH:D000068718,Rosuvastatin Calcium,Rosuvastatin
+DB01099,Flucytosine,MESH:D005437,Flucytosine,Flucytosine
+DB01101,Capecitabine,MESH:D000069287,Capecitabine,Capecitabine
+DB01104,Sertraline,MESH:D020280,Sertraline,Sertraline
+DB01105,Sibutramine,MESH:C058254,sibutramine,Sibutramine
+DB01106,Levocabastine,MESH:C047340,levocabastine,Levocabastine
+DB01110,Miconazole,MESH:D008825,Miconazole,Miconazole
+DB01113,Papaverine,MESH:D010208,Papaverine,Papaverine
+DB01114,Chlorpheniramine,MESH:D002744,Chlorpheniramine,Chlorpheniramine
+DB01115,Nifedipine,MESH:D009543,Nifedipine,Nifedipine
+DB01118,Amiodarone,MESH:D000638,Amiodarone,Amiodarone
+DB01120,Gliclazide,MESH:D005907,Gliclazide,Gliclazide
+DB01122,Ambenonium,,,
+DB01124,Tolbutamide,MESH:D014044,Tolbutamide,Tolbutamide
+DB01125,Anisindione,MESH:C010679,anisindione,Anisindione
+DB01128,Bicalutamide,MESH:C053541,bicalutamide,Bicalutamide
+DB01129,Rabeprazole,MESH:D064750,Rabeprazole,Rabeprazole
+DB01132,Pioglitazone,MESH:D000077205,Pioglitazone,Pioglitazone
+DB01133,Tiludronic acid,MESH:C058651,tiludronic acid,Tiludronic acid
+DB01136,Carvedilol,MESH:D000077261,Carvedilol,Carvedilol
+DB01137,Levofloxacin,MESH:D064704,Levofloxacin,Levofloxacin
+DB01142,Doxepin,MESH:D004316,Doxepin,Doxepin
+DB01143,Amifostine,MESH:D004999,Amifostine,Amifostine
+DB01144,Diclofenamide,,,
+DB01146,Diphenylpyraline,MESH:C009871,diphenylpyraline,Diphenylpyraline
+DB01148,Flavoxate,MESH:D005422,Flavoxate,Flavoxate
+DB01151,Desipramine,MESH:D003891,Desipramine,Desipramine
+DB01156,Bupropion,MESH:D016642,Bupropion,Bupropion
+DB01157,Trimetrexate,MESH:D016597,Trimetrexate,Trimetrexate
+DB01161,Chloroprocaine,MESH:C004616,chloroprocaine,Chloroprocaine
+DB01162,Terazosin,MESH:C041226,Terazosin,Terazosin
+DB01165,Ofloxacin,MESH:D015242,Ofloxacin,Ofloxacin
+DB01167,Itraconazole,MESH:D017964,Itraconazole,Itraconazole
+DB01169,Arsenic trioxide,MESH:D000077237,Arsenic Trioxide,Arsenic trioxide
+DB01170,Guanethidine,MESH:D006145,Guanethidine,Guanethidine
+DB01173,Orphenadrine,MESH:D009966,Orphenadrine,Orphenadrine
+DB01174,Phenobarbital,MESH:D010634,Phenobarbital,Phenobarbital
+DB01175,Escitalopram,MESH:D000089983,Escitalopram,Escitalopram
+DB01176,Cyclizine,MESH:D003501,Cyclizine,Cyclizine
+DB01177,Idarubicin,MESH:D015255,Idarubicin,Idarubicin
+DB01181,Ifosfamide,MESH:D007069,Ifosfamide,Ifosfamide
+DB01182,Propafenone,MESH:D011405,Propafenone,Propafenone
+DB01185,Fluoxymesterone,MESH:D005474,Fluoxymesterone,Fluoxymesterone
+DB01186,Pergolide,MESH:D010479,Pergolide,Pergolide
+DB01188,Ciclopirox,MESH:D000077768,Ciclopirox,Ciclopirox
+DB01189,Desflurane,MESH:D000077335,Desflurane,Desflurane
+DB01192,Oxymorphone,MESH:D010111,Oxymorphone,Oxymorphone
+DB01193,Acebutolol,MESH:D000070,Acebutolol,Acebutolol
+DB01194,Brinzolamide,MESH:C111827,brinzolamide,Brinzolamide
+DB01195,Flecainide,MESH:D005424,Flecainide,Flecainide
+DB01196,Estramustine,MESH:D004961,Estramustine,Estramustine
+DB01197,Captopril,MESH:D002216,Captopril,Captopril
+DB01200,Bromocriptine,MESH:D001971,Bromocriptine,Bromocriptine
+DB01202,Levetiracetam,MESH:D000077287,Levetiracetam,Levetiracetam
+DB01203,Nadolol,MESH:D009248,Nadolol,Nadolol
+DB01204,Mitoxantrone,MESH:D008942,Mitoxantrone,Mitoxantrone
+DB01210,Levobunolol,MESH:D002040,Levobunolol,Levobunolol
+DB01214,Metipranolol,MESH:D014290,Metipranolol,Metipranolol
+DB01216,Finasteride,MESH:D018120,Finasteride,Finasteride
+DB01217,Anastrozole,MESH:D000077384,Anastrozole,Anastrozole
+DB01219,Dantrolene,MESH:D003620,Dantrolene,Dantrolene
+DB01221,Ketamine,MESH:C000629870,Esketamine,Ketamine
+DB01222,Budesonide,MESH:D019819,Budesonide,Budesonide
+DB01223,Aminophylline,MESH:D000628,Aminophylline,Aminophylline
+DB01224,Quetiapine,MESH:D000069348,Quetiapine Fumarate,Quetiapine
+DB01225,Enoxaparin,MESH:D017984,Enoxaparin,Enoxaparin
+DB01228,Encainide,MESH:D016700,Encainide,Encainide
+DB01229,Paclitaxel,MESH:D017239,Paclitaxel,Paclitaxel
+DB01231,Diphenidol,MESH:C004858,diphenidol,Diphenidol
+DB01232,Saquinavir,MESH:D019258,Saquinavir,Saquinavir
+DB01233,Metoclopramide,MESH:D008787,Metoclopramide,Metoclopramide
+DB01234,Dexamethasone,MESH:D003907,Dexamethasone,Dexamethasone
+DB01235,Levodopa,MESH:D007980,Levodopa,Levodopa
+DB01237,Bromodiphenhydramine,MESH:C011410,bromodiphenhydramine,Bromodiphenhydramine
+DB01238,Aripiprazole,MESH:D000068180,Aripiprazole,Aripiprazole
+DB01240,Epoprostenol,MESH:D011464,Epoprostenol,Epoprostenol
+DB01241,Gemfibrozil,MESH:D015248,Gemfibrozil,Gemfibrozil
+DB01242,Clomipramine,MESH:D002997,Clomipramine,Clomipramine
+DB01244,Bepridil,MESH:D015764,Bepridil,Bepridil
+DB01246,Alimemazine,MESH:D014291,Trimeprazine,Alimemazine
+DB01248,Docetaxel,MESH:D000077143,Docetaxel,Docetaxel
+DB01250,Olsalazine,MESH:C032587,olsalazine,Olsalazine
+DB01254,Dasatinib,MESH:D000069439,Dasatinib,Dasatinib
+DB01255,Lisdexamfetamine,MESH:D000069478,Lisdexamfetamine Dimesylate,Lisdexamfetamine
+DB01258,Aliskiren,MESH:C446481,aliskiren,Aliskiren
+DB01259,Lapatinib,MESH:D000077341,Lapatinib,Lapatinib
+DB01260,Desonide,MESH:D003898,Desonide,Desonide
+DB01261,Sitagliptin,MESH:D000068900,Sitagliptin Phosphate,Sitagliptin
+DB01262,Decitabine,MESH:D000077209,Decitabine,Decitabine
+DB01267,Paliperidone,MESH:D000068882,Paliperidone Palmitate,Paliperidone
+DB01268,Sunitinib,MESH:D000077210,Sunitinib,Sunitinib
+DB01275,Hydralazine,MESH:D006830,Hydralazine,Hydralazine
+DB01283,Lumiracoxib,MESH:C473384,lumiracoxib,Lumiracoxib
+DB01291,Pirbuterol,MESH:C009118,pirbuterol,Pirbuterol
+DB01296,Glucosamine,MESH:D005944,Glucosamine,Glucosamine
+DB01320,Fosphenytoin,MESH:C043114,fosphenytoin,Fosphenytoin
+DB01327,Cefazolin,MESH:D002437,Cefazolin,Cefazolin
+DB01351,Amobarbital,MESH:D000654,Amobarbital,Amobarbital
+DB01356,Lithium cation,,,
+DB01359,Penbutolol,MESH:D010394,Penbutolol,Penbutolol
+DB01364,Ephedrine,MESH:D004809,Ephedrine,Ephedrine
+DB01367,Rasagiline,MESH:C031967,rasagiline,Rasagiline
+DB01390,Sodium bicarbonate,MESH:D017693,Sodium Bicarbonate,Sodium bicarbonate
+DB01394,Colchicine,MESH:D003078,Colchicine,Colchicine
+DB01395,Drospirenone,MESH:C035144,drospirenone,Drospirenone
+DB01399,Salsalate,MESH:C014182,salicylsalicylic acid,Salsalate
+DB01400,Neostigmine,MESH:D009388,Neostigmine,Neostigmine
+DB01403,Methotrimeprazine,MESH:D008728,Methotrimeprazine,Methotrimeprazine
+DB01406,Danazol,MESH:D003613,Danazol,Danazol
+DB01410,Ciclesonide,MESH:C120481,ciclesonide,Ciclesonide
+DB01427,Amrinone,MESH:D000676,Amrinone,Amrinone
+DB01440,gamma-Hydroxybutyric acid,MESH:C111420,4-hydroxybutyric acid,gamma-Hydroxybutyric acid
+DB01551,Dihydrocodeine,MESH:C014481,dihydrocodeine,Dihydrocodeine
+DB01576,Dextroamphetamine,MESH:D003913,Dextroamphetamine,Dextroamphetamine
+DB01577,Metamfetamine,MESH:D008694,Methamphetamine,Metamfetamine
+DB01579,Phendimetrazine,MESH:C100294,phendimetrazine,Phendimetrazine
+DB01590,Everolimus,MESH:D000068338,Everolimus,Everolimus
+DB01611,Hydroxychloroquine,MESH:D006886,Hydroxychloroquine,Hydroxychloroquine
+DB01620,Pheniramine,MESH:D010632,Pheniramine,Pheniramine
+DB01623,Thiothixene,MESH:D013888,Thiothixene,Thiothixene
+DB01628,Etoricoxib,MESH:D000077613,Etoricoxib,Etoricoxib
+DB02546,Vorinostat,MESH:D000077337,Vorinostat,Vorinostat
+DB04571,Trioxsalen,MESH:D014307,Trioxsalen,Trioxsalen
+DB04844,Tetrabenazine,MESH:D013747,Tetrabenazine,Tetrabenazine
+DB04861,Nebivolol,MESH:D000068577,Nebivolol,Nebivolol
+DB04865,Omacetaxine mepesuccinate,MESH:D000077863,Homoharringtonine,Omacetaxine mepesuccinate
+DB04868,Nilotinib,MESH:C498826,nilotinib,Nilotinib
+DB05271,Rotigotine,MESH:C047508,rotigotine,Rotigotine
+DB06196,Icatibant,MESH:C065679,icatibant,Icatibant
+DB06201,Rufinamide,MESH:C079703,rufinamide,Rufinamide
+DB06268,Sitaxentan,,,
+DB06287,Temsirolimus,MESH:C401859,temsirolimus,Temsirolimus
+DB06718,Stanozolol,MESH:D013197,Stanozolol,Stanozolol
+DB06803,Niclosamide,MESH:D009534,Niclosamide,Niclosamide
+DB08799,Antazoline,MESH:D000865,Antazoline,Antazoline
+DB08800,Chloropyramine,MESH:C004664,chloropyramine,Chloropyramine
+DB08801,Dimetindene,MESH:D004115,Dimethindene,Dimetindene
+DB08802,Isothipendyl,MESH:C008214,isothipendyl,Isothipendyl
+DB08803,Tymazoline,,,
+DB08804,Nandrolone decanoate,MESH:D000077603,Nandrolone Decanoate,Nandrolone decanoate
+DB08820,Ivacaftor,MESH:C545203,ivacaftor,Ivacaftor
+DB08824,Ioflupane I-123,,,
+DB08835,Spaglumic acid,,,
+DB08896,Regorafenib,MESH:C559147,regorafenib,Regorafenib
+DB08901,Ponatinib,MESH:C545373,ponatinib,Ponatinib
+DB08906,Fluticasone furoate,MESH:C523187,fluticasone furoate,Fluticasone furoate
+DB08907,Canagliflozin,MESH:D000068896,Canagliflozin,Canagliflozin

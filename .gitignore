@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Generated training artifacts
+outputs/
+features/
+logs/
+reports/
+results/
+checkpoints/
+
+# Baseline runs recreate these archives locally
+baselines/shared_splits/
+baselines/**/formal_results_*.json
+baselines/**/cold_start_results/
+baselines/**/*_predictions_*.json
+
+# Local environments and cluster artifacts
+chem.ext3
+*.sif
+*.sbatch
+
+# Raw reference downloads that exceed normal GitHub limits
+data/reference/ctd/CTD_genes_diseases.tsv.gz
+data/reference/ctd/CTD_genes.tsv.gz
+data/reference/string/9606.protein.links.v12.0.txt.gz
+data/reference/string/9606.protein.aliases.v12.0.txt.gz
+data/reference/ctd/CTD_chem_gene_ixns.tsv.gz
+data/reference/ctd/CTD_chemicals.tsv.gz
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
